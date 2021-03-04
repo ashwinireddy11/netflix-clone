@@ -1,4 +1,4 @@
 # netflix-clone
 
  
- trial and error
+ this is just a trial and error
